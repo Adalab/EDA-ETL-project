@@ -13,9 +13,9 @@ En este repositorio se encuentra el análisis de los datos de una encuesta relac
 
  - "2.eda": con el archivo unificado y listo para trabajar, se procede al análisis e investigación de los datos por temática más concreta. En este caso, una mirada rápida por el comportamiento de los datos filtrados por la profesión "Data Analyst" y por país. 
 
- - "4.eda_analista": tras consensuar el equipo querer trabajar sólo con el filtrado por "Data Analyst", se procede el análisis desde este punto de partida. Las cuestiones generales acordadas para la investigación y análisis de esyps datos son las siguientes: edad, género, país, formación académica, ocupación profesional, actividad profesional, sector laboral, tamaño de la empresa en la que se emplea el encuestado, el tamaño de su equipo de trabajo y salario. Se recogen sus principales estadísticos y frecuencias.
+ - "3.eda_analista": tras consensuar el equipo querer trabajar sólo con el filtrado por "Data Analyst", se procede el análisis desde este punto de partida. Las cuestiones generales acordadas para la investigación y análisis de esyps datos son las siguientes: edad, género, país, formación académica, ocupación profesional, actividad profesional, sector laboral, tamaño de la empresa en la que se emplea el encuestado, el tamaño de su equipo de trabajo y salario. Se recogen sus principales estadísticos y frecuencias.
 
- - "5.herramientas": el filtrado por herramientas se realiza con propósito de obtener los materiales más utilizados por los Data Analyst. Para ello,el equipo ha decidido centrarse en herramientas de: visualización, lenguajes de programación, actividades en el lugar de trabajo, entornos de desarrollo y herramnientas de ejecución.
+ - "4.herramientas": el filtrado por herramientas se realiza con propósito de obtener los materiales más utilizados por los Data Analyst. Para ello,el equipo ha decidido centrarse en herramientas de: visualización, lenguajes de programación, actividades en el lugar de trabajo, entornos de desarrollo y herramnientas de ejecución.
  Además, se incluyen gráficas para cada útil para mostrar los resultados en visualización. 
 
 
