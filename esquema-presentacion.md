@@ -49,8 +49,23 @@
 
 6. Finalización: (14-16) Esti
 
-    - Conclusiones: valoración sobre las herramientas y contenidos del bootcamp en sintonía con lo visto en la encuesta.
-                    Buena orientación respecto a impulsar la formación a mujeres para mejorar su presencia en este campos. 
-    - Next steps, sugerencias, propuestas:
-        . Charla introducción o breve expansión de R
-        . Aprovechar el resto de datos disponibles para explorar otras cuestiones que no se han tratado en este análisis, como Machine-Learning ya que se dispone de los datos.
+    - Conclusiones obtenidas por el quipo de No Secrets Data: 
+
+        -En primer lugar, hemos evaluado los lenguajes de programación enseñados en el Bootcamp y podemos decir que son adecuados para la industria. Los conocimientos adquiridos en Python, y SQL son muy demandados por las empresas en la actualidad y son fundamentales para el desarrollo de proyectos tecnológicos.
+        
+        - En cuanto a la visualización de datos, según las investigaciones que hemos llevado a cabo podemos inferir que es adecuada debido a la presencia en los primeros puestos de Matplotlib y Seaborn.
+
+        - De igual manera, consideramos que los entornos de desarrollo integrado son adecuados, ya que las herramientas más utilizadas son Jupyter Notebooks y VSCode.
+
+        - Respecto a las plataformas de desarrollo integrado haremos una serie de consideraciones en la siguiente diapositiva.
+
+        - Por último, queremos destacar que este Bootcamp es una gran oportunidad de desarrollo para las mujeres. El programa se enfoca en formar al género femenino en tecnología y les brinda la oportunidad de adquirir habilidades en un sector que tradicionalmente ha estado dominado por hombres.
+
+    - Como sugerencias de mejora, proponemos:
+
+        - Incluir una master class sobre plataformas de computación en la nube como Kaggle Notebooks o Colab Notebooks con el objetivo de profundizar en estas herramientas.
+
+        - También sugerimos incluir lecciones de fundamentos de "R", dado su presencia notable en la encuesta realizada. Este lenguaje de programación es muy utilizado en el ámbito de la estadística y el análisis de datos, por lo que es importante que las alumnas tengan conocimientos sólidos en este campo.
+
+        - Por último, la encuesta cuenta con información suficiente para elaborar un análisis individualizado de la materia de Machine Learning en el futuro si es de interés para Adalab. 
+
