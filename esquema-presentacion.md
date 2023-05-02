@@ -38,7 +38,7 @@
         -Edad: relacionada íntimamente con la ocupación, los rangos de edad de los encuestados sube notablemente cuando en la variable de la ocupación omitimos o filtramos por Data Analyst. En su mayoría, la encuesta se compone por Estudiantes. Una vez que filtramos por Data Analyst la media de los encuestados se acrecenta. En España, como dato reseñable, el rango hasta 45-49, aunque este dato no es muy sólido apuntando que el tamaño muestral en nuestro país es bastante reducida.
         -Ocupación: como hemos mencionado, una cuarta parte de los encuestados de la muestra son estudiantes (26,2%). Les siguen en proporción los Data Scientist (13,9) y Software Engineer. Para nuestro estudio decidimos quedarnos únicamente con los datos resultantes del filtrado por Data Analyst, ya que lo consideramos más relevante para el análisis que nos ocupa. En adelante, nuestras conclusiones y datos se referirán sólamente al perfil Analista de Datos.
 
-    -Empresas y equipos
+    -Empresas y equipos : lo aplicado aquí se extiende tanto a la encuesta completa como a la filtrada por Analista de Datos
 
     - Detalle de columnas analizadas por ser las de mayor interés para valorar los contenidos del bootcamp(decidir qué gráficas mostrar):
         . Lenguajes de programación: herramienta primaria para el tratamiento de datos
