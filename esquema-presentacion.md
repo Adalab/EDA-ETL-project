@@ -34,12 +34,15 @@
 
     - Perfiles socio-demográficos. Agrupados para mayor comodidad en el manejo posterior de los datos. (6)
         -Países: la agrupación de paises europeos junto a EEUU suponen una proporción similar a la de la India. Utilizamos la encuesta sin cribar, por paises porque si conservamos sólo el cribado por España la muestra se reduce considerablemente. Además en nuetsro análisis no percibimos diferencias significativas en las respuestas para las variables de nuestro interés.
+
         -Género: en la encuesta, la proporción de hombres es superior a la de mujeres, viendo cierta estabilidad en las diferentes segmentaciones de la muestra. Podemos destacar como diferencia notable la presencia de las muejeres europeas en la encuesta no supera el 16%, por debajo de países como India o EEUU. SIn embargo, cuando observamos los datos referidos sólo respecto al perfil Data Analyst en Europa este porcentaje incrementa a un 22%.
+
         -Edad: relacionada íntimamente con la ocupación, los rangos de edad de los encuestados sube notablemente cuando en la variable de la ocupación omitimos o filtramos por Data Analyst. En su mayoría, la encuesta se compone por Estudiantes. Una vez que filtramos por Data Analyst la media de los encuestados se acrecenta. En España, como dato reseñable, el rango hasta 45-49, aunque este dato no es muy sólido apuntando que el tamaño muestral en nuestro país es bastante reducida.
+
         -Ocupación: como hemos mencionado, una cuarta parte de los encuestados de la muestra son estudiantes (26,2%). Les siguen en proporción los Data Scientist (13,9) y Software Engineer. Para nuestro estudio decidimos quedarnos únicamente con los datos resultantes del filtrado por Data Analyst, ya que lo consideramos más relevante para el análisis que nos ocupa. En adelante, nuestras conclusiones y datos se referirán sólamente al perfil Analista de Datos.
 
-    -Empresas y equipos: (7-8) Iris
-    Es interesante ver los perfiles profesionales y laborales dada la orientación del bootcamp a favor de la empleabilidad. El mercado tiene mucha diversidad en cuanto a los roles tanto de empresa como de equipos. lo aplicado aquí se extiende tanto a la encuesta completa como a la filtrada por Analista de Datos.
+        -Empresas y equipos: (7-8) Iris
+        Es interesante ver los perfiles profesionales y laborales dada la orientación del bootcamp a favor de la empleabilidad. El mercado tiene mucha diversidad en cuanto a los roles tanto de empresa como de equipos. lo aplicado aquí se extiende tanto a la encuesta completa como a la filtrada por Analista de Datos.
 
 5.  Detalle de columnas analizadas por ser las de mayor interés para valorar los contenidos del bootcamp(decidir qué gráficas mostrar): (9-13) Cris
         . Lenguajes de programación: herramienta primaria para el tratamiento de datos
